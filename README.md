@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/SuzuTomo2001?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false" >Follow @SuzuTomo2001</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://twitter.com/SuzuTomo2001?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false" >Follow @SuzuTomo2001</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+    </script>
 </div>
 
 ## <a href="kamekyame.mydns.jp">すずとものブログ</a>
@@ -13,7 +15,9 @@
 
 - t7s Electone Project
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLXkYWIdJaLLrTzQ5d2_Mg5SfLNj71X4iG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLXkYWIdJaLLrTzQ5d2_Mg5SfLNj71X4iG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    
+    </iframe>
     
     スマホゲーム「<a href="t7s.jp">Tokyo 7th シスターズ</a>」の曲をエレクトーンで弾いてみよう！っていうプロジェクトです。
     
